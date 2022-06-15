@@ -70,7 +70,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-      
+i18n:      
   footer: This page is powered by [Upptime](https://upptime.js.org)
    
 # Upptime also supports notifications, assigning issues, and more
