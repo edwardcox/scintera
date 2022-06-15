@@ -1,31 +1,44 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: edwardcox # Your GitHub organization or username, where this repository lives
+repo: scintera # The name of this repository
+user-agent: edwardcox
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+  - name: scintera.com.au
+    url: https://scintera.com.au
+    icon: https://cdn.shopify.com/s/files/1/0541/0232/7477/files/Scinter-Logo-383x51_540x.jpg?v=1634195328
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+    maxResponseTime: 5000
+  - name: CloudFlare (DNS and CDN)
+    url: https://cloudflare.com
+    icon: https://download.logo.wine/logo/Cloudflare/Cloudflare-Logo.wine.png
+  - name: Google DNS 1
+    check: "tcp-ping"
+    url: 8.8.4.4
+    port: 53
+    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/800px-Google_%22G%22_Logo.svg.png
+  - name: Google DNS 2
+    check: "tcp-ping"
+    url: 8.8.8.8
+    port: 53
+    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/800px-Google_%22G%22_Logo.svg.png
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: fleck.siteauditpro.com.au
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://i0.wp.com/siteauditpro.com.au/wp-content/uploads/2022/06/SAP-LOGO-189x60-px-1.png?w=189&ssl=1
+  name: SiteAudit Pro Status Monitor
+  introTitle: "fleck.com.au is being monitored by SiteAudit Pro."
+  introMessage: 24x7 awareness and alerting enabled.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
+  i18n:
+      footer: This page is powered by [Upptime](https://upptime.js.org)
+   
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
