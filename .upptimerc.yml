@@ -12,6 +12,8 @@ sites:
       - 201
       - 404
     maxResponseTime: 5000
+assignees:
+      - edwardcox
     
   - name: Shopify
     url: https://shopify.com
