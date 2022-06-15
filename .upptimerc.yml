@@ -14,7 +14,6 @@ sites:
     maxResponseTime: 5000
     assignees:
       - edwardcox
-    ![Uptime](https://img.shields.io/endpoint?url=https://github.com/edwardcox/scintera/blob/master/api/scintera-com-au/uptime.json)
     
   - name: Shopify
     url: https://shopify.com
