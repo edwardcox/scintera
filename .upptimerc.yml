@@ -28,11 +28,11 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: fleck.siteauditpro.com.au
+  cname: scintera.siteauditpro.com.au
   # baseUrl: /your-repo-name
   logoUrl: https://i0.wp.com/siteauditpro.com.au/wp-content/uploads/2022/06/SAP-LOGO-189x60-px-1.png?w=189&ssl=1
   name: SiteAudit Pro Status Monitor
-  introTitle: "fleck.com.au is being monitored by SiteAudit Pro."
+  introTitle: "scintera.com.au is being monitored by SiteAudit Pro."
   introMessage: 24x7 awareness and alerting enabled.
   navbar:
     - title: Status
