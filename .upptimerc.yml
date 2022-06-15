@@ -14,6 +14,7 @@ sites:
     maxResponseTime: 5000
     assignees:
       - edwardcox
+    ![Uptime](https://img.shields.io/endpoint?url=https://github.com/edwardcox/scintera/blob/master/api/scintera-com-au/uptime.json)
     
   - name: Shopify
     url: https://shopify.com
@@ -70,6 +71,7 @@ status-website:
   navbar:
     - title: Status
       href: /
+      
   footer: This page is powered by [Upptime](https://upptime.js.org)
    
 # Upptime also supports notifications, assigning issues, and more
