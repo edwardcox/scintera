@@ -13,7 +13,7 @@ sites:
       - 404
     maxResponseTime: 5000
     
-  - name: Shopify (shopify.com)
+  - name: Shopify
     url: https://shopify.com
     icon: https://cdn.shopify.com/shopifycloud/brochure/assets/brand-assets/shopify-logo-primary-logo-456baa801ee66a0a435671082365958316831c9960c480451dd0330bcdae304f.svg
     expectedStatusCodes:
@@ -22,7 +22,7 @@ sites:
       - 404
     maxResponseTime: 5000
     
-  - name: Shopify Accounts (accounts.shopify.com)
+  - name: Shopify Accounts
     url: https://accounts.shopify.com
     icon: https://cdn.shopify.com/shopifycloud/brochure/assets/brand-assets/shopify-logo-monotone-black-6bded589fa6172f888c4b4f6ae1eca654e865dbb93271f7e2b94a563749aeb40.svg
     expectedStatusCodes:
@@ -31,7 +31,7 @@ sites:
       - 404
     maxResponseTime: 5000
     
-  - name: Shopify Admin Area (https://scintera-pty-ltd.myshopify.com/admin)
+  - name: Shopify Admin Area
     url: https://scintera-pty-ltd.myshopify.com/admin
     icon: https://cdn.shopify.com/shopifycloud/brochure/assets/brand-assets/shopify-logo-monotone-black-6bded589fa6172f888c4b4f6ae1eca654e865dbb93271f7e2b94a563749aeb40.svg
     expectedStatusCodes:
