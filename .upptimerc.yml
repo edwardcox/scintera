@@ -12,7 +12,7 @@ sites:
       - 201
       - 404
     maxResponseTime: 5000
-assignees:
+    assignees:
       - edwardcox
     
   - name: Shopify
