@@ -24,19 +24,19 @@
     "url": "https://shopify.com",
     "icon": "https://cdn.shopify.com/shopifycloud/brochure/assets/brand-assets/shopify-logo-primary-logo-456baa801ee66a0a435671082365958316831c9960c480451dd0330bcdae304f.svg",
     "slug": "shopify",
-    "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "98.26%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
-    "time": 397,
-    "timeDay": 280,
-    "timeWeek": 397,
-    "timeMonth": 397,
-    "timeYear": 397,
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
+    "time": 386,
+    "timeDay": 270,
+    "timeWeek": 386,
+    "timeMonth": 386,
+    "timeYear": 386,
     "dailyMinutesDown": {
-      "2022-06-21": 25
+      "2022-06-21": 31
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://accounts.shopify.com",
     "icon": "https://cdn.shopify.com/shopifycloud/brochure/assets/brand-assets/shopify-logo-monotone-black-6bded589fa6172f888c4b4f6ae1eca654e865dbb93271f7e2b94a563749aeb40.svg",
     "slug": "shopify-accounts",
-    "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "98.26%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
-    "time": 226,
-    "timeDay": 117,
-    "timeWeek": 226,
-    "timeMonth": 226,
-    "timeYear": 226,
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
+    "time": 224,
+    "timeDay": 134,
+    "timeWeek": 224,
+    "timeMonth": 224,
+    "timeYear": 224,
     "dailyMinutesDown": {
-      "2022-06-21": 25
+      "2022-06-21": 31
     }
   },
   {
