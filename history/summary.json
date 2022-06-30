@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
-    "time": 577,
-    "timeDay": 680,
-    "timeWeek": 494,
-    "timeMonth": 577,
-    "timeYear": 577,
+    "time": 594,
+    "timeDay": 1065,
+    "timeWeek": 570,
+    "timeMonth": 594,
+    "timeYear": 594,
     "dailyMinutesDown": {
       "2022-06-21": 25
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
-    "time": 379,
-    "timeDay": 367,
-    "timeWeek": 389,
-    "timeMonth": 379,
-    "timeYear": 379,
+    "time": 387,
+    "timeDay": 568,
+    "timeWeek": 392,
+    "timeMonth": 387,
+    "timeYear": 387,
     "dailyMinutesDown": {
       "2022-06-21": 25
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
-    "time": 231,
-    "timeDay": 259,
-    "timeWeek": 246,
-    "timeMonth": 231,
-    "timeYear": 231,
+    "time": 236,
+    "timeDay": 361,
+    "timeWeek": 263,
+    "timeMonth": 236,
+    "timeYear": 236,
     "dailyMinutesDown": {
       "2022-06-21": 25
     }
@@ -65,16 +65,16 @@
     "icon": "https://cdn.shopify.com/shopifycloud/brochure/assets/brand-assets/shopify-logo-monotone-black-6bded589fa6172f888c4b4f6ae1eca654e865dbb93271f7e2b94a563749aeb40.svg",
     "slug": "shopify-admin-area",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 323,
-    "timeDay": 389,
-    "timeWeek": 364,
-    "timeMonth": 323,
-    "timeYear": 323,
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 331,
+    "timeDay": 485,
+    "timeWeek": 390,
+    "timeMonth": 331,
+    "timeYear": 331,
     "dailyMinutesDown": {
       "2022-06-21": 25
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 185,
-    "timeDay": 201,
-    "timeWeek": 177,
-    "timeMonth": 185,
-    "timeYear": 185,
+    "time": 186,
+    "timeDay": 199,
+    "timeWeek": 192,
+    "timeMonth": 186,
+    "timeYear": 186,
     "dailyMinutesDown": {}
   },
   {
@@ -110,7 +110,7 @@
     "uptimeYear": "100.00%",
     "time": 7,
     "timeDay": 9,
-    "timeWeek": 7,
+    "timeWeek": 8,
     "timeMonth": 7,
     "timeYear": 7,
     "dailyMinutesDown": {}
@@ -127,8 +127,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 6,
-    "timeDay": 8,
-    "timeWeek": 7,
+    "timeDay": 9,
+    "timeWeek": 8,
     "timeMonth": 6,
     "timeYear": 6,
     "dailyMinutesDown": {}
