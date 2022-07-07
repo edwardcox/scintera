@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 592,
-    "timeDay": 630,
-    "timeWeek": 654,
-    "timeMonth": 592,
-    "timeYear": 592,
+    "time": 598,
+    "timeDay": 798,
+    "timeWeek": 616,
+    "timeMonth": 598,
+    "timeYear": 598,
     "dailyMinutesDown": {
       "2022-06-21": 25
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 373,
-    "timeDay": 258,
-    "timeWeek": 352,
-    "timeMonth": 373,
-    "timeYear": 373,
+    "time": 369,
+    "timeDay": 260,
+    "timeWeek": 308,
+    "timeMonth": 369,
+    "timeYear": 369,
     "dailyMinutesDown": {
       "2022-06-21": 25
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 233,
-    "timeDay": 219,
-    "timeWeek": 242,
-    "timeMonth": 233,
-    "timeYear": 233,
+    "time": 232,
+    "timeDay": 201,
+    "timeWeek": 219,
+    "timeMonth": 232,
+    "timeYear": 232,
     "dailyMinutesDown": {
       "2022-06-21": 25
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 333,
-    "timeDay": 290,
-    "timeWeek": 363,
-    "timeMonth": 333,
-    "timeYear": 333,
+    "time": 334,
+    "timeDay": 350,
+    "timeWeek": 343,
+    "timeMonth": 334,
+    "timeYear": 334,
     "dailyMinutesDown": {
       "2022-06-21": 25
     }
@@ -85,16 +85,16 @@
     "icon": "https://download.logo.wine/logo/Cloudflare/Cloudflare-Logo.wine.png",
     "slug": "cloud-flare-dns-and-cdn",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.05%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "99.35%",
-    "time": 199,
-    "timeDay": 170,
-    "timeWeek": 219,
-    "timeMonth": 199,
-    "timeYear": 199,
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
+    "time": 198,
+    "timeDay": 133,
+    "timeWeek": 215,
+    "timeMonth": 198,
+    "timeYear": 198,
     "dailyMinutesDown": {
       "2022-07-03": 114,
       "2022-06-30": 82
@@ -112,8 +112,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 7,
-    "timeDay": 2,
-    "timeWeek": 7,
+    "timeDay": 6,
+    "timeWeek": 6,
     "timeMonth": 7,
     "timeYear": 7,
     "dailyMinutesDown": {}
@@ -130,7 +130,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 6,
-    "timeDay": 2,
+    "timeDay": 5,
     "timeWeek": 6,
     "timeMonth": 6,
     "timeYear": 6,
